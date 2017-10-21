@@ -1,8 +1,3 @@
-README
-
-Note:
-The code should take between 5-10 minutes to compile. Please be patient during code compilation. Thank you
-
 Where to put input data (income dataset):
 After opening the provided R code, the user should change the directory or the input data, which can be done by modifying the “read_csv” command on line 25. If the user changed the input data from a .csv format, he or she should change it back in order for the command to function properly. Additionally, the user should ensure the the “ggplot2,” “ROCR,” “pROC,” and “readr” packages are installed properly, in order to open/read the input data properly.
 
@@ -14,3 +9,5 @@ According to the general output data frame, each entry includes its “ID,” �
 
 How to adjust the “k” variable:
 An adjustable k is provided, but the user will need to adjust it by changing "k" on line 459. These lines are properly labeled, so the user shouldn't have an issue finding the adjustable "k" variable. The default for the "k" variable is 10.
+
+The code should take between 5-10 minutes to compile. Please be patient during code compilation.
